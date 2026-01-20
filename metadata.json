@@ -1,0 +1,8 @@
+
+{
+  "description": "AI-Veterinarian assistant for pet owners with smart triage, image analysis, and emergency medication guidance.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "name": "AI-Veterinarian assistant 20-01-26"
+}
