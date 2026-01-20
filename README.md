@@ -1,6 +1,6 @@
 # 🐾 АИ-ВЕТЕРИНАР | Умный помощник для владельцев питомцев
 
-[<img src="./AI-Vet-Assisstant.png" width="300">](https://github.com/AlxManAi/AI-Veterinarian-Assisstant/blob/main/AI-Vet-Assisstant.png)
+<a href="https://github.com/AlxManAi/AI-Veterinarian-Assisstant/blob/main/AI-Vet-Assisstant.png" target="_blank">Открыть скриншот</a>
 
 *(Нажмите на изображение для предпросмотра)*
 
